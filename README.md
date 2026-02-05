@@ -17,10 +17,10 @@ This project analyzes an online retail dataset to understand sales performance, 
 - Returns & Data Cleaning
 
 ## 💰 Key Result
-- Total Revenue: **10.6 million**
+- Total Revenue: **8.9 million**
 
 ## 📂 Project Structure
-online-retail-analysis/
+online-retail-analysis
 │
 ├── analysis.ipynb
 ├── README.md
