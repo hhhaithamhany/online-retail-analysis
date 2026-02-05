@@ -24,7 +24,7 @@ online-retail-analysis
 │
 ├── analysis.ipynb
 ├── README.md
-└── data/ (dataset not included)
+└── data/ (data not included)
 
 ## 📊 Insights
 
