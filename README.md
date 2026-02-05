@@ -25,3 +25,13 @@ online-retail-analysis
 ├── analysis.ipynb
 ├── README.md
 └── data/ (dataset not included)
+
+## 📊 Insights
+
+-Revenue shows clear seasonal patterns
+
+-A small group of customers generates a large portion of total revenue
+
+-International sales contribute significantly outside the UK
+
+-Repeat customers drive consistent revenue
